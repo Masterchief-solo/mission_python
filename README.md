@@ -1,2 +1,2 @@
-# mission_python
+# Mission Python
 Mission Python, Masterchief Edition. A space adventure game built with Python!
